@@ -1,0 +1,11 @@
+1. pandas
+==========
+ Pandas is a powerful, open-source Python library used primarily for data manipulation and analysis.
+ It introduces two essential data structures: the Series (1D) and the DataFrame (2D), which allow you to handle tabular data—much like an Excel spreadsheet—with high performance.
+ It is the industry standard for cleaning, filtering, and transforming datasets in data science and machine learning workflows.
+
+2. ipywidgets
+==============
+ ipywidgets is a Python library that provides interactive HTML widgets for Jupyter notebooks and Google Colab.
+ It lets you create sliders, dropdowns, buttons, and layout containers to build responsive UIs without a web framework.
+ Widgets can be linked to Python functions and variables for event-driven interaction, enabling rapid prototyping and richer notebook experiences.
